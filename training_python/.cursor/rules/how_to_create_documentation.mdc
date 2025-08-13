@@ -1,0 +1,47 @@
+# how_to_create_documentation
+
+## Reglas para la construcción de documentación técnica (emulando el estilo de "Componente Mongo_extractor")
+
+1. **Título claro y descriptivo**
+   - El documento debe iniciar con un título que identifique claramente el componente o proceso documentado.
+
+2. **Resumen ejecutivo**
+   - Incluye una breve descripción del objetivo y alcance del componente o proceso.
+
+3. **Estructura de secciones**
+   - Introducción
+   - Objetivo
+   - Alcance
+   - Descripción general del componente
+   - Arquitectura o diagrama de flujo (si aplica)
+   - Detalle de entradas y salidas
+   - Configuración y parámetros
+   - Ejemplo de uso
+   - Consideraciones y limitaciones
+   - Referencias y enlaces relacionados
+
+4. **Formato de entradas y salidas**
+   - Especifica claramente los campos requeridos, tipos de datos y ejemplos.
+
+5. **Uso de tablas y listas**
+   - Utiliza tablas para describir parámetros, configuraciones y ejemplos.
+   - Usa listas numeradas o con viñetas para pasos o consideraciones.
+
+6. **Ejemplos prácticos**
+   - Incluye ejemplos de configuración, ejecución y resultados esperados.
+
+7. **Notas y advertencias**
+   - Resalta advertencias, buenas prácticas y errores comunes.
+
+8. **Consistencia visual**
+   - Usa títulos, subtítulos y formato de texto consistente en todo el documento.
+
+9. **Actualización y versionado**
+   - Incluye una sección de historial de cambios o versión del documento.
+
+10. **Referencias cruzadas**
+    - Agrega enlaces a otros documentos relevantes o fuentes externas.
+
+---
+
+> Estas reglas buscan asegurar que la documentación sea clara, completa y fácil de mantener, siguiendo el estilo y estructura de los documentos técnicos de Confluence como "Components".
